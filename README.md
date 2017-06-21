@@ -1,6 +1,5 @@
 # react-d3-sankey
-
-__COMPONENT DESCRIPTION GOES HERE__
+Sankey diagram component for React
 
 
 ## Demo & Examples
@@ -59,3 +58,4 @@ __PUT LICENSE HERE__
 
 Copyright (c) 2017 Igor Shmukler.
 
+=======
