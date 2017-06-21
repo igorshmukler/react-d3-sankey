@@ -1,0 +1,9 @@
+var React = require('react');
+
+var ReactD3Sankey = React.createClass({
+	render () {
+		return <div>react-d3-sankey</div>;
+	}
+});
+
+export default ReactD3Sankey;
