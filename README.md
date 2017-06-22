@@ -18,12 +18,12 @@ Then open [`localhost:8000`](http://localhost:8000) in a browser.
 
 ## Installation
 
-The easiest way to use react-d-3-sankey is to install it from NPM and include it in your own React build process (using [Browserify](http://browserify.org), [Webpack](http://webpack.github.io/), etc).
+The easiest way to use react-d3-sankey is to install it from NPM and include it in your own React build process (using [Browserify](http://browserify.org), [Webpack](http://webpack.github.io/), etc).
 
-You can also use the standalone build by including `dist/react-d-3-sankey.js` in your page. If you use this, make sure you have already included React, and it is available as a global variable.
+You can also use the standalone build by including `dist/react-d3-sankey.js` in your page. If you use this, make sure you have already included React, and it is available as a global variable.
 
 ```
-npm install react-d-3-sankey --save
+npm install react-d3-sankey --save
 ```
 
 
@@ -32,7 +32,7 @@ npm install react-d-3-sankey --save
 __EXPLAIN USAGE HERE__
 
 ```
-var ReactD3Sankey = require('react-d-3-sankey');
+var ReactD3Sankey = require('react-d3-sankey');
 
 <ReactD3Sankey>Example</ReactD3Sankey>
 ```
